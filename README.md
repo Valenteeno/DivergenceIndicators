@@ -1,8 +1,8 @@
 # DivergenceIndicators
 
-Two divergence indicators: Klinger Oscillator with divergence detection, and Stochastic with divergence detection.
+Indicators for MetaTrader 5 that detect divergence between price and the Klinger Oscillator or the Stochastic.
 
-> **Proprietary software** — © Teenodi Ltd. All rights reserved. Private repository; not for distribution. See [LICENSE](LICENSE).
+> **Proprietary software.** © Teenodi Ltd. All rights reserved. The code is shared for viewing only. It is not licensed for reuse or redistribution. See [LICENSE](LICENSE).
 
 ## KlingerDivergence.mq5
 
@@ -44,6 +44,10 @@ Earlier versions / forks are preserved under [`archive/`](archive/) for referenc
 2. In MetaEditor, open the file and compile (**F7**).
 3. Attach the compiled program to a chart from the terminal Navigator.
 
+## Risk note
+
+Trading carries risk. This code shows how the strategy is built. It is not financial advice.
+
 ## License
 
-Proprietary and confidential. © Teenodi Ltd. All rights reserved. See [LICENSE](LICENSE).
+Proprietary. © Teenodi Ltd. All rights reserved. The code is shared for viewing only. See [LICENSE](LICENSE).
